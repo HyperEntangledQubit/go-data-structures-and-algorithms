@@ -31,7 +31,8 @@ Each featured data structure will include the follwing:
 All the code in this repository is released under the ***MIT License***, for
 more information take a look at the [LICENSE] file.
 
+[LICENSE]:https://github.com/HyperEntangledQubit/go-data-structures-and-algorithms/blob/master/LICENSE
+
+### Misc
 
 If you found this repo useful please give me a star!
-
-[LICENSE]: https://github.com/HyperEngtangledQubit/go-data-structures-and-algorithms/blob/master/LICENSE
